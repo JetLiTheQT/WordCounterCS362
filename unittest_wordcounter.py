@@ -14,3 +14,5 @@ class testWordCounter(unittest.TestCase):
         #self.assertEqual(wordcounter.determineWordCount("Thecowisblackandwhite"), 4)
 
 
+if __name__ == '__main__':
+    unittest.main()

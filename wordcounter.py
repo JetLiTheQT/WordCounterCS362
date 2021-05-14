@@ -6,5 +6,3 @@ def determineWordCount(str):
         if(str[x] == ' '):
             counter+=1
     return counter+1
-
-print(determineWordCount("TheCowisBlackandwhite"))
